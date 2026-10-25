@@ -41,6 +41,9 @@ Multimodal AI system (CNN-LSTM) analyzing handwriting, speech, and eye-tracking 
 🚗 **[Automobile Customization using VR](https://github.com/Shazin-tm/automobile-customization-vr)**
 VR car showroom built with Unity 3D and OpenXR for Oculus Quest 2 – real-time color/wheel/interior customization with hand-tracking.
 
+🏏 **[IPL Matches Analysis using Excel](https://github.com/Shazin-tm/ipl-excel-analysis)**
+Data cleaning, Pivot Tables and an interactive slicer-driven dashboard on 1,095 IPL matches (2008-2024).
+
 ---
 
 ### 👀 About Me
