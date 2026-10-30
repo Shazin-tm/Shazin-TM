@@ -44,6 +44,9 @@ VR car showroom built with Unity 3D and OpenXR for Oculus Quest 2 – real-time 
 🏏 **[IPL Matches Analysis using Excel](https://github.com/Shazin-tm/ipl-excel-analysis)**
 Data cleaning, Pivot Tables and an interactive slicer-driven dashboard on 1,095 IPL matches (2008-2024).
 
+#📊 **[Employee Salary Analysis Dashboard using Power BI](https://github.com/Shazin-tm/employee-salary-powerbi-dashboard)**
+Star-schema Power BI dashboard on salary, bonus and deductions across 5 departments and 14 employees, with KPI cards, slicers and a top 10 salary ranking.
+
 ---
 
 ### 👀 About Me
