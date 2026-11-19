@@ -35,6 +35,9 @@
 ---
 
 ### 📌 Featured Projects
+📈 **[Customer 360 & RFM Intelligence Platform](https://github.com/Shazin-tm/customer-360-rfm-analysis)**
+Segmented 4,337 retail customers with RFM scoring in Python, found that 26% of customers (Champions) generate 68% of revenue, and built a Customer 360 table with 11 Oracle SQL queries plus Excel and Power BI dashboards.
+
 🧠 **[Early Dyslexia & Dysgraphia Detection using Deep Learning](https://github.com/Shazin-tm/dyslexia-dysgraphia-detection-ai)**
 Multimodal AI system (CNN-LSTM) analyzing handwriting, speech, and eye-tracking data – accepted for oral presentation at HUMAN 2026.
 
@@ -44,7 +47,7 @@ VR car showroom built with Unity 3D and OpenXR for Oculus Quest 2 – real-time 
 🏏 **[IPL Matches Analysis using Excel](https://github.com/Shazin-tm/ipl-excel-analysis)**
 Data cleaning, Pivot Tables and an interactive slicer-driven dashboard on 1,095 IPL matches (2008-2024).
 
-#📊 **[Employee Salary Analysis Dashboard using Power BI](https://github.com/Shazin-tm/employee-salary-powerbi-dashboard)**
+📊 **[Employee Salary Analysis Dashboard using Power BI](https://github.com/Shazin-tm/employee-salary-powerbi-dashboard)**
 Star-schema Power BI dashboard on salary, bonus and deductions across 5 departments and 14 employees, with KPI cards, slicers and a top 10 salary ranking.
 
 ---
